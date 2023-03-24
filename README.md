@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahdelma
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning embedded c programming
+- 🌱 I’m currently Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
