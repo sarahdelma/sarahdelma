@@ -1,33 +1,25 @@
 # 👋 Hi, I’m Sarah Delma Anthony
 
-Welcome to my **GitHub profile — my digital workshop where ideas become code!**
+Welcome to my **GitHub profile — my digital workspace where ideas become code!**
 
-🌟 I’m a passionate **Programmer & Data science explorer** who loves turning thoughtful questions into clean solutions. Whether it’s machine learning models or data engineering workflows, I’m always learning and building.
+I’m a passionate **Programmer & Data Science**  explorer who loves turning thoughtful questions into clean solutions. Whether it’s machine learning models or data engineering workflows, I’m always learning and building.
 
 ---
 
-## 🚀 What I’m Into
-
-- 💻 **Software Development**: C, C++, Embedded C, Python; embedded systems, protocol communication, real-time applications  
-- 🤖 **AI & Machine Learning**: Model development, predictive analytics, end-to-end AI pipelines  
-- 📊 **Data Science & Analysis**: Data preprocessing, visualization, statistical modeling  
-- 🌐 **Full-Stack & Web Tools**: Streamlit apps, interactive dashboards, automation scripts
-
-
-📊 **Current Interests**
+ **Current Interests**
 - Data Science & Machine Learning pipelines  
 - Real‑world data projects  
 - AI‑powered tools & automation
 
-## 🧠 What I Do
+##  What I Do
 
-- 💻 **Software Development**: Embedded systems, protocol communication, real-time applications  
-- 🤖 **AI & Machine Learning**: Model development, predictive analytics, end-to-end AI pipelines  
-- 📊 **Data Science & Analysis**: Data preprocessing, visualization, statistical modeling  
-- 🌐 **Full-Stack & Web Tools**: Streamlit apps, interactive dashboards, automation scripts
+-  **Software Development**: Embedded systems, protocol communication, real-time applications  
+-  **AI & Machine Learning**: Model development, predictive analytics, end-to-end AI pipelines, Generative AI  
+-  **Data Science & Analysis**: Data preprocessing, visualization, statistical modeling  
+-  **Web Tools**: Streamlit apps, interactive dashboards, automation scripts
 
 
-## 🚀 Current Focus
+## Current Focus
 
 - Building **AI-powered applications**  
 - Integrating **ML models into real-world software**  
@@ -37,17 +29,15 @@ Welcome to my **GitHub profile — my digital workshop where ideas become code!*
 Check out my repos and feel free to explore or collaborate!
 
 
-## 📂 GitHub Highlights
+## GitHub Highlights
 
 - End-to-end ML projects and AI experiments
 
 - Data engineering pipelines and notebooks
 
-- Embedded C and protocol communication applications
-
 - Streamlit, FastAPI, Flask, and Python-based web apps
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 I’m always open to:
 - New learning opportunities
@@ -58,5 +48,5 @@ I’m always open to:
 
 ---
 
-✨ *Thanks for visiting my GitHub profile!*  
-📌 Follow me as I build, learn, fail, and build again.  
+*Thanks for visiting my GitHub profile!*  
+Follow me as I build, learn, fail, and build again.  
