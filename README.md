@@ -2,7 +2,7 @@
 
 Welcome to my **GitHub profile — my digital workshop where ideas become code!**
 
-🌟 I’m a passionate **programmer & data science explorer** who loves turning thoughtful questions into clean solutions. Whether it’s machine learning models, data engineering workflows, or clever scripts, I’m always learning and building.
+🌟 I’m a passionate **programmer & data science explorer** who loves turning thoughtful questions into clean solutions. Whether it’s machine learning models or data engineering workflows, I’m always learning and building.
 
 ---
 
