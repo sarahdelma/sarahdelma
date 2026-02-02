@@ -10,7 +10,7 @@ Welcome to my **GitHub profile — my digital workshop where ideas become code!*
 
 💻 **Coding Languages & Tools**
 - Python • SQL • Git & GitHub
-- Data science libraries: `pandas`, `scikit-learn`, `numpy`
+- Data science libraries: `pandas`, `scikit-learn`, `numpy'.
 - MLops & model deployment
 - Web apps with **Streamlit**
 
@@ -19,25 +19,33 @@ Welcome to my **GitHub profile — my digital workshop where ideas become code!*
 - Real‑world data projects  
 - AI‑powered tools & automation
 
-🌱 **Learning**
-I’m currently leveling up my skills in:
-- Advanced Python  
-- Model Deployment & Monitoring  
-- Scalable Data Engineering
+## 🧠 What I Do
 
----
+- 💻 **Software Development**: Embedded systems, protocol communication, real-time applications  
+- 🤖 **AI & Machine Learning**: Model development, predictive analytics, end-to-end AI pipelines  
+- 📊 **Data Science & Analysis**: Data preprocessing, visualization, statistical modeling  
+- 🌐 **Full-Stack & Web Tools**: Streamlit apps, interactive dashboards, automation scripts
 
-## 🧠 My GitHub Projects
 
-Here you’ll find:
-- End‑to‑end ML projects  
-- Data pipelines & notebooks  
-- Streamlit apps  
-- Profile projects that show what I’m curious about
+## 🚀 Current Focus
+
+- Building **AI-powered applications**  
+- Integrating **ML models into real-world software**  
+- Exploring **genomics, epigenetics, and bioinformatics** for future projects  
+- Contributing to open-source AI and data projects
 
 Check out my repos and feel free to explore or collaborate!
 
----
+
+## 📂 GitHub Highlights
+
+End-to-end ML projects and AI experiments
+
+Data engineering pipelines and notebooks
+
+Embedded C and protocol communication applications
+
+Streamlit, FastAPI, Flask, and Python-based web apps
 
 ## 🤝 Let’s Connect
 
