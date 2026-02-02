@@ -1,18 +1,18 @@
-# 👋 Hi there, I’m Sarah Delma!
+# 👋 Hi, I’m Sarah Delma Anthony
 
 Welcome to my **GitHub profile — my digital workshop where ideas become code!**
 
-🌟 I’m a passionate **programmer & data science explorer** who loves turning thoughtful questions into clean solutions. Whether it’s machine learning models or data engineering workflows, I’m always learning and building.
+🌟 I’m a passionate **Programmer & Data science explorer** who loves turning thoughtful questions into clean solutions. Whether it’s machine learning models or data engineering workflows, I’m always learning and building.
 
 ---
 
 ## 🚀 What I’m Into
 
-💻 **Coding Languages & Tools**
-- Python • SQL • Git & GitHub
-- Data science libraries: `pandas`, `scikit-learn`, `numpy'.
-- MLops & model deployment
-- Web apps with **Streamlit**
+- 💻 **Software Development**: C, C++, Embedded C, Python; embedded systems, protocol communication, real-time applications  
+- 🤖 **AI & Machine Learning**: Model development, predictive analytics, end-to-end AI pipelines  
+- 📊 **Data Science & Analysis**: Data preprocessing, visualization, statistical modeling  
+- 🌐 **Full-Stack & Web Tools**: Streamlit apps, interactive dashboards, automation scripts
+
 
 📊 **Current Interests**
 - Data Science & Machine Learning pipelines  
@@ -39,13 +39,13 @@ Check out my repos and feel free to explore or collaborate!
 
 ## 📂 GitHub Highlights
 
-End-to-end ML projects and AI experiments
+- End-to-end ML projects and AI experiments
 
-Data engineering pipelines and notebooks
+- Data engineering pipelines and notebooks
 
-Embedded C and protocol communication applications
+- Embedded C and protocol communication applications
 
-Streamlit, FastAPI, Flask, and Python-based web apps
+- Streamlit, FastAPI, Flask, and Python-based web apps
 
 ## 🤝 Let’s Connect
 
